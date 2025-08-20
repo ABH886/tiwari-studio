@@ -4,12 +4,7 @@
       font-family: 'Times New Roman', serif;
       background: #f8f3f3; /* gray background */
     }
-    @media (max-width: 600px) {
-  body {
-    font-size: 16px;
-    padding: 0 5px;
-  }
-}
+   
 
     /* Navbar container */
     .navbar {
